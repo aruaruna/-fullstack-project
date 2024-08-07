@@ -1,2 +1,2 @@
-# -fullstack-project
-python fullstack
+# projects
+
